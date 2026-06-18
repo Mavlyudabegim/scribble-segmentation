@@ -1,0 +1,3 @@
+/dataset/preprocessed/*
+__pycache__/
+best_model.pth
